@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\salma\onedrive\desktop\ds assignment\main.cpp
+	<iostream>
+
+1621230259 source:c:\users\salma\onedrive\desktop\ds assignment\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
+1621230259 c:\users\salma\onedrive\desktop\ds assignment\matrixcalculator.h
+
